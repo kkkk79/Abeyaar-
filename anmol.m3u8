@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-MEDIA:LANGUAGE="eng",AUTOSELECT=YES,CHANNELS="2",TYPE=AUDIO,URI="/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/variant_5.m3u8?originpath=/linear/hls/pb/event/o4R2hNglRSioL62WP6Kthw/stream/d619875e-8e42-4cd4-8dc8-ca4597fc53aa:TPE/variant/dd39e6c24d88734c346aefc14bb0e758/bandwidth/000.m3u8",GROUP-ID="program_audio",DEFAULT=YES,NAME="Alternate Audio"
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D401F",AVERAGE-BANDWIDTH=458480,RESOLUTION=426x240,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=459417,AUDIO="program_audio"
+https://dai.google.com//linear/hls/pb/event/o4R2hNglRSioL62WP6Kthw/stream/d619875e-8e42-4cd4-8dc8-ca4597fc53aa:TPE/variant/bed5b9dcced27f3d57256048beb3df9f/bandwidth/459417.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D401F",AVERAGE-BANDWIDTH=760320,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=761987,AUDIO="program_audio"
+https://dai.google.com//linear/hls/pb/event/o4R2hNglRSioL62WP6Kthw/stream/d619875e-8e42-4cd4-8dc8-ca4597fc53aa:TPE/variant/db2ca260c5f9bae45655330e1ed16e08/bandwidth/761987.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D401F",AVERAGE-BANDWIDTH=1256200,RESOLUTION=854x480,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1259065,AUDIO="program_audio"
+https://dai.google.com//linear/hls/pb/event/o4R2hNglRSioL62WP6Kthw/stream/d619875e-8e42-4cd4-8dc8-ca4597fc53aa:TPE/variant/4b43f437f4ac56524f5c1e5a183b3a69/bandwidth/1259065.m3u8
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4D4029",AVERAGE-BANDWIDTH=1525700,RESOLUTION=1024x576,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1529216,AUDIO="program_audio"
+https://dai.google.com//linear/hls/pb/event/o4R2hNglRSioL62WP6Kthw/stream/d619875e-8e42-4cd4-8dc8-ca4597fc53aa:TPE/variant/4d03d8b47e1bf205f1e07d3f00b190f6/bandwidth/1529216.m3u8
